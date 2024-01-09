@@ -1,2 +1,4 @@
 # Unity-Vision
- XR/Game Dev Practice Repo!
+ Hi there and welcome to Unity Vision 👋
+ Unity Vision is a public repository of practice problems especially geared towards Game/XR(Extended Reality) Development.
+ 
