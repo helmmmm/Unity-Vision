@@ -1,5 +1,5 @@
 using UnityEngine;
-public class Spin_solution : MonoBehaviour
+public class Spin_Solution : MonoBehaviour
 {
     public float rotationSpeed = 100.0f;
     void Update()
